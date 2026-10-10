@@ -1,0 +1,6 @@
+nidsenv/
+*.pkl
+KDDTrain+.txt
+KDDTest+.txt
+__pycache__/
+.ipynb_checkpoints/
